@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\orenga\source\repos\homework\ex1\father\main.c(44): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  stack.c
+c:\users\orenga\source\repos\homework\ex1\father\stack.c(45): warning C4142: 'pop': benign redefinition of type
+  c:\users\orenga\source\repos\homework\ex1\father\stack.h(28): note: see declaration of 'pop'
+  Generating Code...
+  Father.vcxproj -> C:\Users\orenga\source\repos\HomeWork\EX1\Debug\Father.exe
